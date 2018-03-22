@@ -1,0 +1,3 @@
+Jag ska göra en app som ska vara för att kunna mäta hur snabbt och långt man har sprungit, 
+och när det är klart ska jag börja göra en varvräknare, det kommer vara det svåra, och appen 
+ska visa information om varvet/slingan.
